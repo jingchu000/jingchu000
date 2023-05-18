@@ -8,8 +8,9 @@
 <br>
 <br>
 <br>
-<img src="https://github-readme-stats.vercel.app/api?username=soroushchehresa&show_icons=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=jingchu000&show_icons=true" />
 <br>
 <br>
-⭐️ From [![JingChu's GitHub stats](https://github-readme-stats.vercel.app/api?username=jingchu000)](https://github.com/anuraghazra/github-readme-stats)
+
+[//]: # (⭐️ From [![JingChu's GitHub stats]&#40;https://github-readme-stats.vercel.app/api?username=jingchu000&#41;]&#40;https://github.com/anuraghazra/github-readme-stats&#41;)
 </div>
