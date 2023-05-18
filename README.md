@@ -12,5 +12,5 @@
 <br>
 <br>
 
-[//]: # (⭐️ From [![JingChu's GitHub stats]&#40;https://github-readme-stats.vercel.app/api?username=jingchu000&#41;]&#40;https://github.com/anuraghazra/github-readme-stats&#41;)
+⭐️ From [jingchu000](https://github.com/jingchu000)
 </div>
