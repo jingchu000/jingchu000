@@ -4,7 +4,7 @@
 
 # Hello, world! 👋
 
-
+![Metrics](https://github.com/jingchu000/jingchu000/blob/master/github-metrics.svg)
 <br>
 <br>
 <br>
