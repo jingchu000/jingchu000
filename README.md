@@ -12,7 +12,7 @@
 <br>
 <br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jingchu000&layout=compact)
+![Top Lang's](https://github-readme-stats.vercel.app/api/top-langs/?username=jingchu000&layout=compact)
 
 
 ⭐️ From [jingchu000](https://github.com/jingchu000)
