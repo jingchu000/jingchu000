@@ -12,7 +12,7 @@
 <br>
 <br>
 
-[![jignchu's GitHub stats](https://github-readme-stats.vercel.app/api?username=jingchu000)](https://github.com/anuraghazra/github-readme-stats)|![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jingchu000&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jingchu000&layout=compact)
 
 
 ⭐️ From [jingchu000](https://github.com/jingchu000)
